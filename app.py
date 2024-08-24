@@ -6,4 +6,4 @@ print("exit")
 print("It's nice work")
 print("Test Pass")
 print("done")
-print("👍")
+
